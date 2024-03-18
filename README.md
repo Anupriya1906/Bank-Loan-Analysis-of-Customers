@@ -1,4 +1,4 @@
-# Bank-Loan-Analysis-of-Customers
+# Bank-Loan-Analysis-of-Customers-POWERBI
 
 ![image](BankLoanDashboard.png)
 
